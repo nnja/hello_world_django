@@ -19,7 +19,7 @@ It contains two routes:
 `source env/bin/activate`
 1. Install requirements:
 `pip install -r requirements.txt`
-1. Run the server:
+1. Run the server, like this:
 `python manage.py runserver`
 
 Locally, access the app via either of the following urls:
